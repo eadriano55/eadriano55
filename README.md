@@ -1,7 +1,7 @@
 ### Hi there, I´m Evanildo 👋
 
-- 🔭 I’m currently working on personal projects in Spring Boot (Java), JPA, Hibernate, SQL, HTML, CSS, Javascript and cloud.
-- 🌱 I’m currently learning Java, React, Javascript, cloud, Typescript etc.
+- 🔭 I’m currently working on personal projects in Spring Boot (Java), JPA, Hibernate, SQL, HTML, CSS, Javascript, Python, Data Science and cloud.
+- 🌱 I’m currently learning Java, React, Javascript, cloud, Typescript, Python, etc.
 - 📫 How to reach me: e_adriano55@hotmail.com / eadriano55@gmail.com
 - 😄 Pronouns: He/Him
 
